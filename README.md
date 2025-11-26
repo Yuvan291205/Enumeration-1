@@ -68,7 +68,8 @@ Top level domain expansion
 ## OUTPUT:
 
 
-![alt text](image-7.png)
+<img width="589" height="128" alt="image" src="https://github.com/user-attachments/assets/82314c33-e5c9-44b7-a274-059835ece358" />
+
 
 
 
@@ -88,8 +89,9 @@ Perform reverse lookups on netranges (C class or/and whois netranges) (threaded)
 Write to domain_ips.txt file ip-blocks.
 This program is useful for pentesters, ethical hackers and forensics experts. It also can be used for security tests.
 
-![alt text](image-8.png)
-![alt text](image-9.png)
+<img width="780" height="787" alt="image" src="https://github.com/user-attachments/assets/b8654923-2a7f-4989-afc4-ecd1a415dcfd" />
+<img width="662" height="457" alt="image" src="https://github.com/user-attachments/assets/27e8102a-1fc5-4381-843d-e59499ed26b3" />
+
 
 ##smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
@@ -109,8 +111,8 @@ and issue appropriate commands
  ##Output
   
   
+<img width="647" height="355" alt="image" src="https://github.com/user-attachments/assets/df451f91-1796-4597-a322-e7e481ddf2ea" />
 
-![alt text](image-12.png)
 
 ## nmap –script smtp-enum-users.nse <hostname>
 
@@ -119,7 +121,8 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 ## OUTPUT:
 
-![alt text](image-11.png)
+<img width="527" height="177" alt="image" src="https://github.com/user-attachments/assets/e031b1b5-96d0-4864-8054-1a9e1be98000" />
+
 
 ## RESULT:
 The Google hacking keywords and enumeration tools were identified and executed successfully
